@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @YaGRRusso
-- 👀 I’m interested in Dev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-YaGRRusso/YaGRRusso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Técnico em Informática (IFSul)
+💼 Jovem Aprendiz (Lojas Quero-Quero)
+📚 Estudando Front-End (ReactJS e ReactNative)
+🔎 Procurando Emprego como Desenvolvedor
+❤ Apaixonado em Programação

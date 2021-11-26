@@ -13,9 +13,9 @@ Estudo as melhores tecnologias de desenvolvimento front-end e busco uma oportuni
 ## Status
 <div align="center">
   <a href="https://github.com/YaGRRusso">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaGRRusso&show_icons=true&theme=dracula&count_private=true&" />
+    <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=YaGRRusso&show_icons=true&theme=dracula&count_private=true&" />
   </a>
   <a href="https://github.com/YaGRRusso">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&&langs_count=8&theme=dracula&layout=compact"/>
+    <img width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&&langs_count=8&theme=dracula&layout=compact"/>
   </a>
 </div>

@@ -14,16 +14,15 @@ Dê uma olhada nos meus repositórios! (Fixados tem README)
 ## Status
 <div align="center">
   <a href="https://github.com/YaGRRusso">
-    <img width=65% align="center" src="https://github-readme-stats.vercel.app/api?username=YaGRRusso&show_icons=true&theme=dracula&count_private=true&" />
+    <img width=65% align="center" src="https://github-readme-stats.vercel.app/api?username=YaGRRusso&show_icons=true&theme=dracula&count_private=true" />
   </a>
   <a href="https://github.com/YaGRRusso">
-    <img width=27% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&theme=dracula"/>
+    <img width=26% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&theme=dracula&hide_title=true&langs_count=6"/>
+    <!-- <img width=27% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&theme=dracula"/> -->
   </a>
 </div>
 
-<!--
-<div style="text-align: center; background-color:#282A36; margin-left: 4%; margin-right: 4%; padding: 5px; border: 1px solid white; border-radius: 5px">
--->
+<!-- <div style="text-align: center; background-color:#282A36; margin-left: 4%; margin-right: 4%; padding: 5px; border: 1px solid white; border-radius: 5px"> -->
 
 <div align="center">
   <img title="HTML" src="https://img.shields.io/badge/-DD6387?style=flat&logo=html5&logoColor=white" />

@@ -25,26 +25,26 @@ Dê uma olhada nos meus repositórios! (Fixados tem README)
 <!-- <div style="text-align: center; background-color:#282A36; margin-left: 4%; margin-right: 4%; padding: 5px; border: 1px solid white; border-radius: 5px"> -->
 
 <div align="center">
-  <img title="HTML" src="https://img.shields.io/badge/-DD6387?style=flat&logo=html5&logoColor=white" />
-  <img title="CSS" src="https://img.shields.io/badge/-DD6387?style=flat&logo=css3&logoColor=white" />
-  <img title="JavaScript" src="https://img.shields.io/badge/-DD6387?style=flat&logo=javascript&logoColor=white" />
-  <img title="TypeScript" src="https://img.shields.io/badge/-DD6387?style=flat&logo=typescript&logoColor=white" />
-  <img title="Node" src="https://img.shields.io/badge/-DD6387?style=flat&logo=node.js&logoColor=white" />
-  <img title="Git" src="https://img.shields.io/badge/-DD6387?style=flat&logo=git&logoColor=white" />
-  <img title="Java" src="https://img.shields.io/badge/-DD6387?style=flat&logo=java&logoColor=white" />
-  <img title="PHP" src="https://img.shields.io/badge/-DD6387?style=flat&logo=php&logoColor=white" />
-  <img title="MySQL" src="https://img.shields.io/badge/-DD6387?style=flat&logo=mysql&logoColor=white" />
-  <img title="PostgreSQL" src="https://img.shields.io/badge/-DD6387?style=flat&logo=postgresql&logoColor=white" />
-  <img title="Firebase" src="https://img.shields.io/badge/-DD6387?style=flat&logo=firebase&logoColor=white" />
-  <img title="ReactJS e React Native" src="https://img.shields.io/badge/-DD6387?style=flat&logo=react&logoColor=white" />
-  <img title="React Router" src="https://img.shields.io/badge/-DD6387?style=flat&logo=react-router&logoColor=white" />
-  <img title="Redux" src="https://img.shields.io/badge/-DD6387?style=flat&logo=redux&logoColor=white" />
-  <img title="Next" src="https://img.shields.io/badge/-DD6387?style=flat&logo=next.js&logoColor=white" />
-  <img title="Express" src="https://img.shields.io/badge/-DD6387?style=flat&logo=express&logoColor=white" />
-  <img title="TailwindCSS" src="https://img.shields.io/badge/-DD6387?style=flat&logo=tailwind-css&logoColor=white" />
-  <img title="Bootstrap" src="https://img.shields.io/badge/-DD6387?style=flat&logo=bootstrap&logoColor=white" />
-  <img title="StyledComponents" src="https://img.shields.io/badge/-DD6387?style=flat&logo=styled-components&logoColor=white" />
-  <img title="MaterialUI" src="https://img.shields.io/badge/-DD6387?style=flat&logo=material-ui&logoColor=white" />
+  <img title="HTML" src="https://img.shields.io/badge/-282A36?style=flat&logo=html5&logoColor=EE85A9" />
+  <img title="CSS" src="https://img.shields.io/badge/-282A36?style=flat&logo=css3&logoColor=EE85A9" />
+  <img title="JavaScript" src="https://img.shields.io/badge/-282A36?style=flat&logo=javascript&logoColor=EE85A9" />
+  <img title="TypeScript" src="https://img.shields.io/badge/-282A36?style=flat&logo=typescript&logoColor=EE85A9" />
+  <img title="Node" src="https://img.shields.io/badge/-282A36?style=flat&logo=node.js&logoColor=EE85A9" />
+  <img title="Git" src="https://img.shields.io/badge/-282A36?style=flat&logo=git&logoColor=EE85A9" />
+  <img title="Java" src="https://img.shields.io/badge/-282A36?style=flat&logo=java&logoColor=EE85A9" />
+  <img title="PHP" src="https://img.shields.io/badge/-282A36?style=flat&logo=php&logoColor=EE85A9" />
+  <img title="MySQL" src="https://img.shields.io/badge/-282A36?style=flat&logo=mysql&logoColor=EE85A9" />
+  <img title="PostgreSQL" src="https://img.shields.io/badge/-282A36?style=flat&logo=postgresql&logoColor=EE85A9" />
+  <img title="Firebase" src="https://img.shields.io/badge/-282A36?style=flat&logo=firebase&logoColor=EE85A9" />
+  <img title="ReactJS e React Native" src="https://img.shields.io/badge/-282A36?style=flat&logo=react&logoColor=EE85A9" />
+  <img title="React Router" src="https://img.shields.io/badge/-282A36?style=flat&logo=react-router&logoColor=EE85A9" />
+  <img title="Redux" src="https://img.shields.io/badge/-282A36?style=flat&logo=redux&logoColor=EE85A9" />
+  <img title="Next" src="https://img.shields.io/badge/-282A36?style=flat&logo=next.js&logoColor=EE85A9" />
+  <img title="Express" src="https://img.shields.io/badge/-282A36?style=flat&logo=express&logoColor=EE85A9" />
+  <img title="TailwindCSS" src="https://img.shields.io/badge/-282A36?style=flat&logo=tailwind-css&logoColor=EE85A9" />
+  <img title="Bootstrap" src="https://img.shields.io/badge/-282A36?style=flat&logo=bootstrap&logoColor=EE85A9" />
+  <img title="StyledComponents" src="https://img.shields.io/badge/-282A36?style=flat&logo=styled-components&logoColor=EE85A9" />
+  <img title="MaterialUI" src="https://img.shields.io/badge/-282A36?style=flat&logo=material-ui&logoColor=EE85A9" />
 </div>
 
 

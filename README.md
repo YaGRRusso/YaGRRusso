@@ -1,4 +1,4 @@
-# Olá, me chamo Yago Russo 👋 <a href="https://linkedin.com/in/yago-russo"><img title="Linkedin" width=25 height=25 align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+# Olá, me chamo Yago Russo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <a href="https://linkedin.com/in/yago-russo"><img title="Linkedin" width=25 height=25 align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 Focado nas melhores tecnologias de desenvolvimento front-end e buscando uma oportunidade profissional para por meus conhecimento em prática.
 Dê uma olhada nos meus repositórios! (Fixados tem README)
 

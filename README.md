@@ -36,15 +36,17 @@ Dê uma olhada nos meus repositórios! (Fixados tem README)
   <img title="MySQL" src="https://img.shields.io/badge/-282A36?style=flat&logo=mysql&logoColor=EE85A9" />
   <img title="PostgreSQL" src="https://img.shields.io/badge/-282A36?style=flat&logo=postgresql&logoColor=EE85A9" />
   <img title="Firebase" src="https://img.shields.io/badge/-282A36?style=flat&logo=firebase&logoColor=EE85A9" />
-  <img title="ReactJS e React Native" src="https://img.shields.io/badge/-282A36?style=flat&logo=react&logoColor=EE85A9" />
+  <img title="ReactJS" src="https://img.shields.io/badge/-282A36?style=flat&logo=react&logoColor=EE85A9" />
+  <img title="React Native" src="https://img.shields.io/badge/-282A36?style=flat&logo=react&logoColor=EE85A9" />
   <img title="React Router" src="https://img.shields.io/badge/-282A36?style=flat&logo=react-router&logoColor=EE85A9" />
-  <img title="Redux" src="https://img.shields.io/badge/-282A36?style=flat&logo=redux&logoColor=EE85A9" />
+  <!-- <img title="Redux" src="https://img.shields.io/badge/-282A36?style=flat&logo=redux&logoColor=EE85A9" /> -->
+  <!-- <img title="Apache" src="https://img.shields.io/badge/-282A36?style=flat&logo=apache&logoColor=EE85A9" /> -->
   <img title="Next" src="https://img.shields.io/badge/-282A36?style=flat&logo=next.js&logoColor=EE85A9" />
-  <img title="Express" src="https://img.shields.io/badge/-282A36?style=flat&logo=express&logoColor=EE85A9" />
+  <!-- <img title="Express" src="https://img.shields.io/badge/-282A36?style=flat&logo=express&logoColor=EE85A9" /> -->
   <img title="TailwindCSS" src="https://img.shields.io/badge/-282A36?style=flat&logo=tailwind-css&logoColor=EE85A9" />
   <img title="Bootstrap" src="https://img.shields.io/badge/-282A36?style=flat&logo=bootstrap&logoColor=EE85A9" />
-  <img title="StyledComponents" src="https://img.shields.io/badge/-282A36?style=flat&logo=styled-components&logoColor=EE85A9" />
-  <img title="MaterialUI" src="https://img.shields.io/badge/-282A36?style=flat&logo=material-ui&logoColor=EE85A9" />
+  <!-- <img title="StyledComponents" src="https://img.shields.io/badge/-282A36?style=flat&logo=styled-components&logoColor=EE85A9" /> -->
+  <!-- <img title="MaterialUI" src="https://img.shields.io/badge/-282A36?style=flat&logo=material-ui&logoColor=EE85A9" /> -->
 </div>
 
 

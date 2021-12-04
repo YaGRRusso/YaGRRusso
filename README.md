@@ -27,6 +27,7 @@ Dê uma olhada nos meus repositórios! (Fixados tem README)
 <div align="center">
   <img title="HTML" src="https://img.shields.io/badge/-282A36?style=flat&logo=html5&logoColor=EE85A9" />
   <img title="CSS" src="https://img.shields.io/badge/-282A36?style=flat&logo=css3&logoColor=EE85A9" />
+  <img title="SASS" src="https://img.shields.io/badge/-282A36?style=flat&logo=sass&logoColor=EE85A9" />
   <img title="JavaScript" src="https://img.shields.io/badge/-282A36?style=flat&logo=javascript&logoColor=EE85A9" />
   <img title="TypeScript" src="https://img.shields.io/badge/-282A36?style=flat&logo=typescript&logoColor=EE85A9" />
   <img title="Node" src="https://img.shields.io/badge/-282A36?style=flat&logo=node.js&logoColor=EE85A9" />
@@ -42,6 +43,8 @@ Dê uma olhada nos meus repositórios! (Fixados tem README)
   <!-- <img title="Redux" src="https://img.shields.io/badge/-282A36?style=flat&logo=redux&logoColor=EE85A9" /> -->
   <!-- <img title="Apache" src="https://img.shields.io/badge/-282A36?style=flat&logo=apache&logoColor=EE85A9" /> -->
   <img title="Next" src="https://img.shields.io/badge/-282A36?style=flat&logo=next.js&logoColor=EE85A9" />
+  <img title="Webpack" src="https://img.shields.io/badge/-282A36?style=flat&logo=webpack&logoColor=EE85A9" />
+  <img title="Babel" src="https://img.shields.io/badge/-282A36?style=flat&logo=babel&logoColor=EE85A9" />
   <!-- <img title="Express" src="https://img.shields.io/badge/-282A36?style=flat&logo=express&logoColor=EE85A9" /> -->
   <img title="TailwindCSS" src="https://img.shields.io/badge/-282A36?style=flat&logo=tailwind-css&logoColor=EE85A9" />
   <img title="Bootstrap" src="https://img.shields.io/badge/-282A36?style=flat&logo=bootstrap&logoColor=EE85A9" />

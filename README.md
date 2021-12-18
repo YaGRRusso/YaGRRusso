@@ -7,7 +7,7 @@ Dê uma olhada nos meus repositórios! (Fixados tem README)
   <img title="TypeScript" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img title="ReactJs e ReactNative" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <!-- <img title="ReduxJS" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
-  <img title="NextJs" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <!-- <img title="NextJs" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> -->
   <img title="NodeJS" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 

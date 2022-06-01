@@ -1,4 +1,4 @@
-# Olá, me chamo Yago Russo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <a href="https://linkedin.com/in/yago-russo"><img title="Linkedin" width=25 height=25 align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+# Olá, me chamo Yago Russo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <a href="https://linkedin.com/in/yago-russo"><img title="Linkedin" width=25 height=25 align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 Desenvolvedor frontend focado em React/Next e Typescript, para me conhecer melhor, dê uma olhada nos meus repositórios ou portfólio!
 
 <div align="center">

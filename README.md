@@ -2,8 +2,14 @@
 Desenvolvedor frontend focado em React/Next e Typescript, para me conhecer melhor, dê uma olhada nos meus repositórios ou portfólio!
 
 <div align="center">
-  <img title="TypeScript" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img title="ReactJs" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="Javascript" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  &nbsp;
+<!--   <img title="MongoDB" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
+  <img title="Express" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img title="React" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="NodeJs" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  &nbsp;
+  <img title="Typescript" width=25 height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 
 ## Status

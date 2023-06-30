@@ -15,6 +15,6 @@ Desenvolvedor focado em Typescript, sempre aprendendo coisas novas a cada dia, p
     <img width=65% align="center" src="https://github-readme-stats.vercel.app/api?username=YaGRRusso&show_icons=true&theme=dracula&count_private=true" />
   </a>
   <a href="https://github.com/YaGRRusso">
-    <img width=28% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&theme=dracula&hide_title=true&langs_count=6"/>
+    <img width=28% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&theme=dracula&hide_title=true&langs_count=6&exclude_repo=tcc-cactus-e-commerce"/>
   </a>
 </div>

@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img width=95% src="https://github-profile-trophy.vercel.app/?username=yagrrusso&rank=-C,-B&no-frame=true&no-bg=true&margin-w=16&theme=discord" />
-</div>
+</div> -->
 
 # Olá, me chamo Yago 👋 <a href="https://linkedin.com/in/yago-russo"><img title="Linkedin" width=25 height=25 align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 Desenvolvedor há alguns anos, focado em Typescript e sempre aprendendo coisas novas e aperfeiçoando melhor ainda o que já sei a cada dia, para me conhecer melhor, dê uma olhada nos meus [repositórios](https://github.com/YaGRRusso?tab=repositories), [portfólio](https://yagrrusso.github.io/yago-russo/) _(um pouco desatualizado)_ ou [LinkedIn](https://www.linkedin.com/in/yago-russo/)!

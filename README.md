@@ -9,16 +9,16 @@ I enjoy writing clean code, thinking outside the box, bringing ideas to life (or
 _Take a look at my [repositories](https://github.com/YaGRRusso?tab=repositories), check out my [portfolio](https://yagrrusso.github.io/yago-russo) (a bit outdated 😅), or reach out on [LinkedIn](https://www.linkedin.com/in/yago-russo)!_
 
 <div align="left">
-  <img title="Typescript" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<!--   <img title="Javascript" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
   <img title="React" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="Next" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img title="Tailwind" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img title="GraphQL" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img title="Typescript" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<!--   <img title="Javascript" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
   <img title="Node" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img title="Nest" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
 <!--   <img title="Prisma" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" /> -->
 <!--   <img title="Mongo" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> -->
-<!--   <img title="GraphQL" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> -->
 <!--   <img title="AWS" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> -->
 <!--   <img title="Docker" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> -->
 </div>

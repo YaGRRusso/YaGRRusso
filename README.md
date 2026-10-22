@@ -32,7 +32,8 @@ _take a look at my [repositories](https://github.com/YaGRRusso?tab=repositories)
     <img title="Docker" width=24 height=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </div>
 
-## Status
+---
+
 <div align="center">
     <!-- <img width=60% align="center" src="https://github-readme-stats.vercel.app/api?username=YaGRRusso&show_icons=true&theme=dracula&count_private=true&hide_rank=true&hide_border=true" /> -->
     <!-- <img width=35% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaGRRusso&theme=dracula&langs_count=6&hide_border=true"/> -->
